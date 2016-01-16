@@ -52,6 +52,14 @@ You can use this plugin to make long and complicated forms, or to make short for
 Make sure you have selected "Email" as the "Field Type" when defining the form fields. This is important and have two benefits : First, you'll be sure that the user has to put a correctly formatted email address. And second, you'll be sure that the user receives the confirmation/thank you email.
 
 ### Changelog
+#### 2.5.2
+* Added the option for modifying the subject for confirmation email
+* Newest entries presented first
+* Minor bug detected and fixed
+
+#### 2.4.1
+* Added the ability to edit every single entry that is already saved in the table.
+* Ability to remove rows of inputted data.
 
 #### 2.3.1
 * Added the ability to show the stored data on front-end.
@@ -59,7 +67,6 @@ Make sure you have selected "Email" as the "Field Type" when defining the form f
 
 #### 2.2.7
 * Some remaining errors fixed
-* A minor bug that might happen in rare cases will be fixed in future release (Please the Other Notes section)
 * Complete German Translation
 
 #### 2.2.6
